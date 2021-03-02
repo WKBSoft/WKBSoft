@@ -1,18 +1,11 @@
-<!--
-**bellemanwesley/bellemanwesley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-### Hi there, I'm [Wesley!](http://www.wkbonline.net/) 👋
+### Hi there, Welcome to [WKB Software Inc.](http://wkbsoft.com/) GitHub 👋
 
 <br />
 
-Hi, I'm Wesley Belleman, a full stack developer and security engineer.
+We're a team of software developers that build SaaS applications on the web.
 
-- 🔭 I’m currently working on [aigames](http://www.github.com/bellemanwesley/aigames)
-- 🌱 I’m currently learning Tensorflow
-- 🤔 I’m looking for help with Javascript asynchronous XHR and AWS Fargate
-
-- [My PyPi Profile](https://pypi.org/user/bellemanwesley/)
-- [My Docker Profile](https://hub.docker.com/u/bellemanwesley)
+- 🔭 We're currently working on [vitamova](http://www.github.com/WKBSoft/vitamova)
+- 🤔 We're looking for help to build awesome SaaS applications - are you interested?
 
 <br />
 
@@ -28,10 +21,3 @@ Hi, I'm Wesley Belleman, a full stack developer and security engineer.
 <code><img height="20" src="https://www.smile.eu/sites/default/files/styles/picture_news_technology/public/2017-08/elastic.png"></code>
 
 <br />
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WKBSoft&show_icons=true&include_all_commits=true&theme=material-palenight" alt="WKBSoft's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WKBSoft&layout=compact&theme=material-palenight" />
-</a>
